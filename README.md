@@ -1,17 +1,36 @@
 ![Header image](https://raw.githubusercontent.com/Chaseao/Chaseao/master/Chase.png)
-<h1> 
-  Yo welcome to my page!
-  <br> I'm Chase, a rising junior gameplay programmer 😎
-</h1>
+<h3>
+  Who I Am
+</h3>
 <p>
-  - 👀 I’m interested in game development, VR, and AI
-  <br>  - 🌱 I’m currently learning 2D game development
-  <br>  - 💞️ I’m looking to collaborate on VR development or game development
-  <br> - 📫 How to reach me chaseao.oberg@gmail.com
+  I am a Gameplay and UI Programmer with a specialty in Unity / C#. I have created several small games with a focus on story-based games. I have worked in the industry for half a year and have a year's worth of experience creating indie games.
 </p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chaseao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Chaseao}.${Chaseao})
+<h3>
+  Current Project
+</h3>
+<p>
+  Right now, I'm a part-time gameplay programmer for a Columbus-based indie startup AfroDuck Studios, where I'm working on Zakumba: Astraia, an upcoming RPG.
+</p>
+
+[![Steam](https://img.shields.io/badge/Zakumba:_Astraia-%23000000.svg?style=flat&logo=steam&logoColor=white&link=https://store.steampowered.com/app/1430350/Zakumba_Astraia/)](https://store.steampowered.com/app/1430350/Zakumba_Astraia/)
+
+<h3>
+  Game Jam Projects
+</h3>
+<p>
+  <a href="https://chasingshadows.itch.io/glory">In The Name Of Glory:</a> A multiplayer RPG where every party member is only out for themselves
+  <br>
+  <a href="https://chasingshadows.itch.io/spirit">That's the Spirit:</a> A platformer visual novel that tells the story of falling in love with a ghost
+  <br>
+</p>
+
+<h3>
+  How To Contact me
+</h3>
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-Chase_Oberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chase-oberg-6a5a1621b/)](https://www.linkedin.com/in/chase-oberg-6a5a1621b/)
+[![Gmail Badge](https://img.shields.io/badge/-chaseao.oberg@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaseao.oberg@gmail.com)](mailto:chaseao.oberg@gmail.com)
 
 <!---
 Chaseao/Chaseao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
