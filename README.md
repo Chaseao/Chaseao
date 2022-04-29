@@ -3,7 +3,7 @@
   Who I Am
 </h3>
 <p>
-  I am a Gameplay and UI Programmer with a specialty in Unity / C#. I have created several small games with a focus on story-based games. I have worked in the industry for half a year and have a year's worth of experience creating indie games.
+  I am a Game Designer with a specialty in Unity / C# development currently studying at The Ohio State University. I’ve created several small games with gameplay features like inventory, combat, and skill systems. I’ve also worked with teams to create UI systems that are engaging for the player to interact with.
 </p>
 
 <h3>
