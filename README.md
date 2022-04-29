@@ -3,7 +3,7 @@
   Who I Am
 </h3>
 <p>
-  I am a Game Designer with a specialty in Unity / C# development currently studying at The Ohio State University. I’ve created several small games with gameplay features like inventory, combat, and skill systems. I’ve also worked with teams to create UI systems that are engaging for the player to interact with.
+   I am a Game Designer currently studying at The Ohio State University. I’ve created several small games with gameplay features like inventory, combat, and skill systems. In addition, I have worked with teams to create UI systems that are engaging for the player.
 </p>
 
 <h3>
