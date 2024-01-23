@@ -7,23 +7,17 @@
 </p>
 
 <h3>
-  Current Project
+  Current Projects
 </h3>
 <p>
-  Right now, I'm a part-time gameplay programmer for a Columbus-based indie startup AfroDuck Studios, where I'm working on Zakumba: Astraia, an upcoming RPG.
+  Right now, I'm a part-time Augmented Reality Researcher working to develope an interactive user interface for the Microsoft Hololens 2 to both view and provide feedback to an AI Generated coating path plan for robots on an assembly line.
 </p>
-
-[![Steam](https://img.shields.io/badge/Zakumba:_Astraia-%23000000.svg?style=flat&logo=steam&logoColor=white&link=https://store.steampowered.com/app/1430350/Zakumba_Astraia/)](https://store.steampowered.com/app/1430350/Zakumba_Astraia/)
 
 <h3>
-  Game Jam Projects
+  Past Project
 </h3>
-<p>
-  <a href="https://chasingshadows.itch.io/glory">In The Name Of Glory:</a> A multiplayer RPG where every party member is only out for themselves
-  <br>
-  <a href="https://chasingshadows.itch.io/spirit">That's the Spirit:</a> A platformer visual novel that tells the story of falling in love with a ghost
-  <br>
-</p>
+
+[![Steam](https://img.shields.io/badge/Zakumba:_Astraia-%23000000.svg?style=flat&logo=steam&logoColor=white&link=https://store.steampowered.com/app/1430350/Zakumba_Astraia/)](https://store.steampowered.com/app/1430350/Zakumba_Astraia/)
 
 <h3>
   How To Contact me
