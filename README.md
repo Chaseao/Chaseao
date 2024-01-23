@@ -3,7 +3,7 @@
   Who I Am
 </h3>
 <p>
-   I am a Computer Science Major currently studying at The Ohio State University. I’ve both worked on and led the development of several small games with gameplay features like inventory, combat, and skill systems. In addition, I have spent time studying how to create UI systems that are engaging for the player.
+   I am a Computer Science Major currently studying at The Ohio State University with a focus on User Interfaces for Mixed Reality Applications. I’ve both worked on and led the development of several small games with gameplay features like inventory, combat, and skill systems. In addition, I have spent time studying how to create UI systems that are engaging for the player.
 </p>
 
 <h3>
