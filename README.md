@@ -23,8 +23,8 @@
   How To Contact me
 </h3>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-Chase_Oberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chase-winters-6a5a1621b/)](https://www.linkedin.com/in/chase-winters-6a5a1621b/)
-[![Gmail Badge](https://img.shields.io/badge/-chaseao.oberg@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaseao.oberg@gmail.com)](mailto:chaseao.oberg@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-Chase_Winters-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chase-winters-6a5a1621b/)](https://www.linkedin.com/in/chase-winters-6a5a1621b/)
+[![Gmail Badge](https://img.shields.io/badge/-winters.skye16@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winters.skye16@gmail.com)](mailto:winters.skye16@gmail.com)
 
 <!---
 Chaseao/Chaseao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
